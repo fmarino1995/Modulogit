@@ -1,1 +1,1 @@
-Meu primeiro Sistema no git ainda em testes
+Meu primeiro Sistema utilizando git e github
