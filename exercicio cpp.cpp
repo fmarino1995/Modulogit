@@ -2,6 +2,8 @@
 #include <tchar.h>
 #include <stdlib.h>
 
+// Adicionando um comentario para testar o GIT
+
 using namespace std;
 
 struct Pessoa
