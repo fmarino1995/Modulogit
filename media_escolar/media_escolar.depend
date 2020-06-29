@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583022491 source:c:\users\fmari\onedrive\Área de trabalho\media_escolar\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<string.h>
+
