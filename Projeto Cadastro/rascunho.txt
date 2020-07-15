@@ -1,0 +1,19 @@
+Classes:
+
+Cliente:
+
+string nome;
+int cod;
+
+
+bloco de codigo ..
+
+cout << "Cadastrar outro cliente ?";
+cin >> opc;
+if(opc == "sim" || opc == "SIM")
+{
+    goto inicio;
+}else
+{
+    
+}
